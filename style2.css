@@ -1,0 +1,17 @@
+
+html {
+
+    font-family: sans-serif;
+    color: azure;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background-image: url(../media/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-size:larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px #0c0c0c;
+}
